@@ -1,0 +1,1 @@
+In this directory we are going to be working with type annotations in python 3.
