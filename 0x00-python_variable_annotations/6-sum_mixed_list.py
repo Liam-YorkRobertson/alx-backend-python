@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Type-annotated function that takes a list of floats and ints and returns the sum
+Type-annotated function that takes a list of floats and ints and returns sum
 """
 from typing import List, Union
 
